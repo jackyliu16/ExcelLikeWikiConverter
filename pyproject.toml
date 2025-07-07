@@ -1,0 +1,13 @@
+[project]
+name = "refactored-grok-app-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.0",
+    "pillow>=11.3.0",
+    "tksheet>=7.5.12",
+    "xlsxwriter>=3.2.5",
+]
